@@ -1,0 +1,13 @@
+:root {
+  font-family: "Manrope", Helvetica, Arial, sans-serif;
+  font-size: 28px;
+  font-weight: 800;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
